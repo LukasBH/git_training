@@ -1,2 +1,3 @@
-library(httr2)
-# some comment test
+library(DBI)
+library(tidyverse) #Often used in data science
+library(RPostgres)
